@@ -1,7 +1,7 @@
 # Smart Shopping Cart
 
 # About #
-Tugas Akhir Smart Shopping Cart adalah satu projek capstone yang dikerjakan oleh mahasiswa Teknik Elektro 2019 di Universitas Multinedia Nusantara dan merupakan syarat kelulusan. Repisotory ini terdiri dari kode-kode yang digunakan dari tahap pengujian sampai dengan kode akhir yang digunakan pada projek.
+Smart Shopping Cart adalah sebuah proyek capstone yang dikerjakan oleh mahasiswa Teknik Elektro angkatan 2019 di Universitas Multinedia Nusantara. Pyoyek ini bekerja sebagai tugas akhir dan merupakan syarat kelulusan mahasiswa-mahasiswa penanggung jawab. Repisotory ini terdiri dari kode-kode yang digunakan pada tahap pengujian sampai dengan kode akhir yang digunakan pada projek.
 
 Penanggung jawab proyek:
 1. Kevin Jonathan <br />
